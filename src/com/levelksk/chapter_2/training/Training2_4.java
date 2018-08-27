@@ -7,6 +7,6 @@ public class Training2_4 {
         Scanner input = new Scanner(System.in);
         System.out.print("请输入磅数: ");
         double pounds = input.nextDouble();
-        System.out.println(pounds + " 英尺数转换成米数是 " + pounds * 0.305);
+        System.out.println(pounds + " 磅数转换成千克数是 " + pounds * 0.454);
     }
 }
