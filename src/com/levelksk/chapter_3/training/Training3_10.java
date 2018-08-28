@@ -1,12 +1,12 @@
-package com.levelksk.chapter_3;
+package com.levelksk.chapter_3.training;
 
 import java.util.Scanner;
 
-public class SubtractionQuiz {
+public class Training3_10 {
     public static void main(String[] args) {
         // 1. Generate two random single-digit integers
-        int number1 = (int)(Math.random() * 10);
-        int number2 = (int)(Math.random() * 10);
+        int number1 = (int)(Math.random() * 100);
+        int number2 = (int)(Math.random() * 100);
 
         // 2. If number1 < number2, swap number1 with number2
         if (number1 < number2) {

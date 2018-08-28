@@ -1,8 +1,8 @@
-package com.levelksk.chapter_3;
+package com.levelksk.chapter_3.training;
 
 import java.util.Scanner;
 
-public class ComputeTax {
+public class Training3_13 {
     public static void main(String[] args) {
         // Create a Scanner
         Scanner input = new Scanner(System.in);
